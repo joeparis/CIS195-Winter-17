@@ -4,6 +4,21 @@
 
 For next class create a web page about yourself. You page should reflect good structure (choose tags meaningfully being sure they represent the purpose of the content). Think of heading tags as creating the basic structure that you hang the rest of your page off of. Use at least two tags that we haven't yet discussed in class. For each tag in the `<body>` of your document include a comment explaining why you thought it was the most appropriate to use at that time.
 
+``` html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  
+</body>
+</html>
+```
+
 **due January 17, bring it with you to class**
 
 ## January 12, 2017 - Part 1
