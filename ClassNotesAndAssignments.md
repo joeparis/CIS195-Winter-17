@@ -1,5 +1,9 @@
 # Class Notes and Assignments
 
+## February 23, 2017
+
+For next class complete <a href="http://learn.shayhowe.com/html-css/adding-media/">Lesson 9: Adding Media</a>, <a href="http://learn.shayhowe.com/html-css/building-forms/">Lesson 10: Building Forms</a> and <a href="http://learn.shayhowe.com/html-css/organizing-data-with-tables/">Lesson 11: Organizing Data with Tables</a>. Bring any questions you have to class.
+
 ## February 9, 2017
 
 For next class read and complete <a href="http://learn.shayhowe.com/html-css/setting-backgrounds-and-gradients/">Lesson 7: Setting Backgrounds &amp; Gradients</a> and <a href="http://learn.shayhowe.com/html-css/creating-lists/">Lesson 8: Creating Lists</a>. Bring any questions you have to class. Also, create a second copy of your Miss Baker site and add a gradient of your own choosing to its background (either the <code>&lt;head&gt;</code> or the <code>&lt;body&gt;</code> element, your choice). Make sure your content is still legible with the new background. Also, add some color to the page that works well with your background. You may want to use the <a href="http://colorschemedesigner.com/csd-3.5/">Color Scheme Designer</a> to aid you with this. Be sure to apply all necessary vendor prefixes to your CSS.
