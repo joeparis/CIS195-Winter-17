@@ -1,10 +1,10 @@
 # Class Notes and Assignments
 
-## March 4, 2017
+## March 7, 2017
 
 Create a copy of your Miss Baker site and re-vamp it so that it works well across devices of any size. Use the principles of responsive design we discussed in class. At the very least you must do something to change the layout involving the <code>&lt;aside&gt;</code> but look for other elements that you may want to address in some responsive manner. We will talk a bit more about responsive images in our next class but if you like feel free to tackle the image now.
 
-Due March 8.
+Due March 9.
 
 ## February 23, 2017
 
