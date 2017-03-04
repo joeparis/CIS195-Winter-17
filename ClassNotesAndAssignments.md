@@ -1,5 +1,11 @@
 # Class Notes and Assignments
 
+## March 4, 2017
+
+Create a copy of your Miss Baker site and re-vamp it so that it works well across devices of any size. Use the principles of responsive design we discussed in class. At the very least you must do something to change the layout involving the <code>&lt;aside&gt;</code> but look for other elements that you may want to address in some responsive manner. We will talk a bit more about responsive images in our next class but if you like feel free to tackle the image now.
+
+Due March 8.
+
 ## February 23, 2017
 
 For next class complete <a href="http://learn.shayhowe.com/html-css/adding-media/">Lesson 9: Adding Media</a>, <a href="http://learn.shayhowe.com/html-css/building-forms/">Lesson 10: Building Forms</a> and <a href="http://learn.shayhowe.com/html-css/organizing-data-with-tables/">Lesson 11: Organizing Data with Tables</a>. Bring any questions you have to class.
