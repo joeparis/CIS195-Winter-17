@@ -1,5 +1,27 @@
 # Class Notes and Assignments
 
+## Final Project
+
+For your final project you will create a simple web site about a topic of your choosing. In order to get a passing grade on the project your site must:
+
+* Consist of at least five pages
+* Have attractive and consistent formatting across all its pages
+* Have consistent, obvious, and logical navigation across all its pages
+* Have a responsive design (including text, layout, and images) that responds appropriately to various device resolutions and orientations
+* Use semantic html (`<header>`, `<main>`, `<sectio>`, `<article>`, `<h1>`, `<h2>`, etc. &ndash; **note:** this is not a list of required tags, only examples)
+* Use CSS for layout (**no** table-based layouts allowed)
+* Have at least one table (be sure to pay attention to how your table(s) behave at various device sizes)
+* Feature at least one video and/or audio element offering multiple media file formats 
+* Every tag must have all required attributes (`alt` on image tags, for example)
+* All html and css must pass validation (<a href="https://validator.w3.org/" target="_blank">html</a> and <a href="https://jigsaw.w3.org/css-validator/" target="_blank">css</a>)
+
+Be sure to test your site on as many different devices and screen resolutions as you possibly can!
+
+Again, these are the minimum requirements for your project site. You are encouraged to go above and beyond them and *have fun!!*
+
+
+Due by 5:00 P.M. Tuesday, March 21
+
 ## March 7, 2017
 
 Create a copy of your Miss Baker site and re-vamp it so that it works well across devices of any size. Use the principles of responsive design we discussed in class. At the very least you must do something to change the layout involving the <code>&lt;aside&gt;</code> but look for other elements that you may want to address in some responsive manner. We will talk a bit more about responsive images in our next class but if you like feel free to tackle the image now.
